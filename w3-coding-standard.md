@@ -5,6 +5,7 @@ Tags: `W3` `coding standard`
 # IMPORTANT: update for the coding standard
 The coding standard was updated recently to **allow omitting javadocs for overridden methods**
 
+![1402AA8A-32FD-4CC2-970D-522D7353F659_4_5005_c](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/assets/60144099/27034c00-48f9-4c50-9764-25e0ea3c62f4)
 
 
 
