@@ -7,15 +7,8 @@ The coding standard was updated recently to **allow omitting javadocs for overri
 
 
 
-**Q: Can we omit javadoc for overridden methods?**
-
-```java
-@Override
-public String toString() { return descriptionPrefix + description; }
-```
 
 **A:** Yes.
-
 
 
 # Q&As
