@@ -1,4 +1,4 @@
-# Week 5: Code quality in iP Prs, user stories for the tP
+# Week 5: Code quality in iP PRs, user stories for the tP
 
 Tags: `W5` `code quality` `user stories`
 
