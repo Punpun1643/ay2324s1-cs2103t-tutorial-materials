@@ -8,6 +8,8 @@ Tags: `W5` `code quality` `user stories`
 
 **A:** These two often happens together but it is possible we see an arrowhead shape that is not that deep or deep nesting that is not exactly a clean arrowhead shape e.g.,
 
+![BED37874-B10F-48E2-B0AC-0FD6DFB41CF6_4_5005_c](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/assets/60144099/d7097ab3-5797-4b9c-b89d-a7635c2ea5ee)
+
 # tP stuff
 **Q: Should we pick at least five user stories for v1.2, as there are five members?**
 
