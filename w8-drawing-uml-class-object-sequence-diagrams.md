@@ -44,7 +44,8 @@ Tags: `W8` `DG` `UML diagrams` `sequence diagram` `class diagram` `object diagra
 
 [Diagrams for reference]
 
-![E0B90192-320B-43E4-821D-820FC33D441C_1_201_a](https://user-images.githubusercontent.com/60144099/194712037-04a88be4-ed75-4308-bdbe-cdda7bb39151.jpeg)
+![7FF0CA81-BAEA-4AD5-BA05-FA64A42AB14A](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/assets/60144099/bbfba9cb-cd04-4e01-848e-b8d34170cb99)
+
 
 [Code for reference]
 
