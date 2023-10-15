@@ -7,3 +7,4 @@
 | Week 5 | Code quality in iP PRs, user stories for the tP | [Notes](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/blob/master/w5-code-quality-user-stories.md) |
 | Week 6 | Debugging, interpreting UML sequence diagrams | [Notes](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/blob/master/w6-sequence-diagrams.md)|
 | Week 7 | Project requirements | [Notes](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/blob/master/w7-project-requirements.md) |
+| Week 8 | Drawing UML class/object/sequence diagrams | [Notes](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/blob/master/w8-drawing-uml-class-object-sequence-diagrams.md)|
