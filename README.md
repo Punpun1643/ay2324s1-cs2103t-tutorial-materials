@@ -9,3 +9,4 @@
 | Week 7 | Project requirements | [Notes](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/blob/master/w7-project-requirements.md) |
 | Week 8 | Drawing UML class/object/sequence diagrams | [Notes](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/blob/master/w8-drawing-uml-class-object-sequence-diagrams.md)|
 | Week 9 | Code coverage, OODMs, activity diagrams| [Notes](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/blob/master/w9-oodm-activity-diagrams.md) |
+| Week 10 | Assertions, defensive programming, evaluating sample DG extract | [Notes](https://github.com/Punpun1643/ay2324s1-cs2103t-tutorial-materials/blob/master/w10-sample-dg-diagrams.md) |
