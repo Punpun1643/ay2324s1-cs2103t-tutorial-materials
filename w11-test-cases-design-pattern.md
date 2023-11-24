@@ -64,7 +64,9 @@ To help indentify EP, you can try to think whether the logic/implementation hand
 
 # How I prepared for finals
 
-1. Read through the entire module textbook one time, take note of things that I thought was noteworthy
+TLDR; if you really don't have time please do: study UML + look through the weekly quiz questions that you got wrong
+
+1. Read through the entire module textbook one time, take note of things that I thought was noteworthy (again, I mentioned this countless times, maybe it's a good idea to have a list of the notations that shouldn't be included in each type of diagrams e.g. no multiplicity in object diagram)
 
 2. Re-attempted all the weekly quizzes, take a screenshot of those that I still got wrong, then try to understand why I got them wrong. Revise those parts of the content. Look through these questions once again before exam.
 
